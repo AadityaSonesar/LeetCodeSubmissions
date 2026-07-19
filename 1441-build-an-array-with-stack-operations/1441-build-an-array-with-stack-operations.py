@@ -1,15 +1,14 @@
 class Solution:
     def buildArray(self, target: List[int], n: int) -> List[str]:
-        targetSet=set(target)
-        stackNum=[]
         stack=[]
-        targetLen=len(targetSet)
+        targetLen=len(target)
+        targetIndex=0
         for i in range(1,n+1):
             stack.append("Push")
-            stackNum.append(i)
-            if i not in targetSet:
+            if i==target[targetIndex]:
+                targetIndex+=1
+            else:
                 stack.append("Pop")
-                stackNum.pop()
-            if targetLen==len(stackNum):
+            if targetLen==targetIndex:
                 break
         return stack
