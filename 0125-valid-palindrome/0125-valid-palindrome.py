@@ -1,17 +1,14 @@
 class Solution:
-    s=""
-    def pal(self,l: int, r:int) -> bool:
+    def pal(self,s: str, l: int, r:int) -> bool:
         if l>=r:
             return True
-        if not self.s[l].isalnum():
-            return self.pal(l+1,r)
-        if not self.s[r].isalnum():
-            return self.pal(l,r-1)
-        if self.s[l].lower() != self.s[r].lower():
+        if not s[l].isalnum():
+            return self.pal(s,l+1,r)
+        if not s[r].isalnum():
+            return self.pal(s,l,r-1)
+        if s[l].lower() != s[r].lower():
             return False
-        else:
-            return self.pal(l+1, r-1)  
+        return self.pal(s, l+1, r-1)  
 
     def isPalindrome(self, s: str) -> bool:
-        self.s=s
-        return self.pal(0,len(s)-1)
+        return self.pal(s,0,len(s)-1)
