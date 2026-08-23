@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
