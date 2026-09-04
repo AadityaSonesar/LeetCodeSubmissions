@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
