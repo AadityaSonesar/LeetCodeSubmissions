@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0135-candy) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |
 | ------- |
