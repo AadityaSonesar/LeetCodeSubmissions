@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3903-smallest-stable-index-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AadityaSonesar/LeetCodeSubmissions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
